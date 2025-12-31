@@ -53,3 +53,4 @@ MODULE.bazel.lock
 # WASM build artifacts (Emscripten)
 *.wasm
 ztest*.wasm
+zconf.h.cmakein
